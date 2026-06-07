@@ -80,22 +80,22 @@ const abhibadan = {
 ## Public Projects
 
 <!-- PROJECTS_START -->
-> ⚡ _This section is auto-updated every 24 hours by a GitHub Action — always reflects your latest public repos._
+> ⚡ _Auto-updated every 24 h by GitHub Actions — always reflects latest public repos._
 
-| Repository | Description | Language | Updated |
+| Repository | Description | Language | Last Updated |
 |---|---|---|---|
-| [acache-server](https://github.com/Abhibadan/acache-server) | Redis-inspired in-memory cache server for Node.js — published npm package | TypeScript | Feb 2025 |
-| [acache-client](https://github.com/Abhibadan/acache-client) | Client library for acache-server — published npm package | TypeScript | Feb 2025 |
-| [CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM) | LLM layer — explore any codebase in natural language via LangChain + graph + vector retrieval | Python | Active |
-| [CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser) | Language-specific parser microservice → dual-database pipeline (Neo4j + ChromaDB) | TypeScript | Active |
-| [chatON_backend](https://github.com/Abhibadan/chatON_backend) | High-concurrency real-time messaging — Discord-inspired DB partitioning | JavaScript | Aug 2024 |
-| [chatON_frontend](https://github.com/Abhibadan/chatON_frontend) | Frontend for chatON real-time messaging app | JavaScript | Aug 2024 |
-| [sysmon](https://github.com/Abhibadan/sysmon) | Cross-platform memory + CPU monitor with C++ kernel-level bindings. Zero deps | C++ | Feb 2025 |
-| [bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer) | NLP lemmatization engine for Bengali AI training — finds root words for ML models | Jupyter Notebook | Oct 2023 |
-| [linear_regression](https://github.com/Abhibadan/linear_regression) | From-scratch Python ML library: Linear/Logistic Regression, KNN, K-Means, K-Medoids | Jupyter Notebook | Apr 2024 |
-| [node-validator](https://github.com/Abhibadan/node-validator) | API request validation package for Node.js — published npm package | JavaScript | Jul 2024 |
-| [daily_shop](https://github.com/Abhibadan/daily_shop) | E-commerce web app | PHP | Aug 2021 |
-| [college_ecom](https://github.com/Abhibadan/college_ecom) | College e-commerce platform | PHP | Jul 2021 |
+| [CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser) | Language-specific parser microservice that extracts  code structure and feeds a dual-database pipeline  (Neo4j + ChromaDB) for semantic retrieval. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Jun 2026 |
+| [CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM) | LLM layer for CodeAtlas — enables engineers to explore  any codebase in natural language via LangChain +  graph + vector retrieval. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | Jun 2026 |
+| [acache-client](https://github.com/Abhibadan/acache-client) | Node.js client for acache-server.  Apache 2.0 licensed npm package. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Feb 2025 |
+| [acache-server](https://github.com/Abhibadan/acache-server) | Redis-inspired in-memory cache server for Node.js.  Supports strings, numbers, booleans, objects. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Feb 2025 |
+| [sysmon](https://github.com/Abhibadan/sysmon) | Cross-platform memory and CPU monitoring tool  with C++ kernel-level bindings. Zero dependencies. | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logoColor=white) | Feb 2025 |
+| [chatON_backend](https://github.com/Abhibadan/chatON_backend) | _No description_ | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Aug 2024 |
+| [chatON_frontend](https://github.com/Abhibadan/chatON_frontend) | _No description_ | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Aug 2024 |
+| [node-validator](https://github.com/Abhibadan/node-validator) | This is a package of validating request of api, for making it easier for user | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Jul 2024 |
+| [linear_regression](https://github.com/Abhibadan/linear_regression) | From-scratch Python ML library — Linear Regression,  Logistic Regression, KNN, K-Means, K-Medoids. | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square&logoColor=white) | Apr 2024 |
+| [bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer) | NLP lemmatization engine for Bengali language AI training.  Helps find root words for ML model training. | — | Oct 2023 |
+| [daily_shop](https://github.com/Abhibadan/daily_shop) | _No description_ | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white) | Aug 2021 |
+| [college_ecom](https://github.com/Abhibadan/college_ecom) | _No description_ | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white) | Jul 2021 |
 <!-- PROJECTS_END -->
 
 ---
