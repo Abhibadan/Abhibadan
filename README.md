@@ -137,28 +137,34 @@ contact     : abhibadanghosh1234@gmail.com
 
 <div align="center">
 
+<!-- 
+  IMPORTANT: These stats cards use YOUR OWN Vercel deployment of github-readme-stats.
+  Replace YOUR_VERCEL_URL below with your deployment URL (see setup guide).
+  Free forever, never rate-limited since it's your own instance.
+-->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Abhibadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true"
+    srcset="https://YOUR_VERCEL_URL.vercel.app/api?username=Abhibadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Abhibadan&show_icons=true&theme=default&hide_border=true&bg_color=EBF4FF&title_color=0a2a4a&icon_color=1a6eb5&text_color=1a2a3a&include_all_commits=true&count_private=true"
+    srcset="https://YOUR_VERCEL_URL.vercel.app/api?username=Abhibadan&show_icons=true&theme=default&hide_border=true&bg_color=EBF4FF&title_color=0a2a4a&icon_color=1a6eb5&text_color=1a2a3a&include_all_commits=true&count_private=true"
   />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhibadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://YOUR_VERCEL_URL.vercel.app/api?username=Abhibadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6"
+    srcset="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=default&hide_border=true&bg_color=EBF4FF&title_color=0a2a4a&text_color=1a2a3a&langs_count=6"
+    srcset="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=default&hide_border=true&bg_color=EBF4FF&title_color=0a2a4a&text_color=1a2a3a&langs_count=6"
   />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+  <img height="160" src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 </picture>
 
 <picture>
