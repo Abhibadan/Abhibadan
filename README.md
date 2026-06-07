@@ -146,17 +146,17 @@ const abhibadan = {
 
 <div align="center">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhibadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&include_all_commits=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhibadan&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=1f2937&include_all_commits=true&count_private=true">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhibadan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=1f2937">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibadan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" alt="Top Languages">
-</picture>
+</picture> -->
 
 <br>
 
