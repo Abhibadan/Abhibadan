@@ -72,20 +72,22 @@ contact     : abhibadanghosh1234@gmail.com
 
 ---
 
-## `$ ls -la projects/`
+## `$ ls -la projects/   # auto-updated daily by GitHub Actions`
 
-> 🔧 Built in production, not in tutorials.
+> 🔧 Built in production, not in tutorials. &nbsp;|&nbsp; Sorted by most recently active.
 
-| Project | What it does | Stack | Status |
+<!-- PROJECTS:START -->
+| Project | What it does | Language | Status |
 |---|---|---|---|
-| **[acache-server](https://github.com/Abhibadan/acache-server)** | Redis-inspired in-memory cache server — published npm package | Node.js, TypeScript | ✅ Published |
-| **[acache-client](https://github.com/Abhibadan/acache-client)** | Client library for acache-server | Node.js, TypeScript | ✅ Published |
-| **[CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM)** | LLM layer — explore any codebase in natural language via LangChain + graph + vector retrieval | Python, LangChain, Neo4j, ChromaDB | ✅ Live |
-| **[CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser)** | Language-specific parser microservice → dual-database pipeline (Neo4j + ChromaDB) | TypeScript, NestJS | ✅ Live |
-| **[chatON_backend](https://github.com/Abhibadan/chatON_backend)** | High-concurrency real-time messaging — Discord-inspired DB partitioning | Node.js, Kafka, Socket.IO | ✅ Live |
-| **[sysmon](https://github.com/Abhibadan/sysmon)** | Cross-platform memory + CPU monitor with C++ kernel-level bindings. Zero deps | C++, Electron | ✅ Live |
-| **[bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer)** | NLP lemmatization engine for Bengali AI training | Python, NumPy, Pandas | ✅ Live |
-| **[linear_regression](https://github.com/Abhibadan/linear_regression)** | From-scratch ML library: Linear/Logistic Regression, KNN, K-Means, K-Medoids | Python, NumPy | ✅ Live |
+| **[acache-server](https://github.com/Abhibadan/acache-server)** | Redis-inspired in-memory cache server for Node.js. Supports strings, numbers, booleans, objects. | 🔷 TypeScript | ✅ Active |
+| **[acache-client](https://github.com/Abhibadan/acache-client)** | Node.js client for acache-server. Apache 2.0 licensed npm package. | 🔷 TypeScript | ✅ Active |
+| **[CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM)** | LLM layer for CodeAtlas — enables engineers to explore any codebase in natural language via LangChain + graph + vector retrieval. | 🐍 Python | ✅ Active |
+| **[CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser)** | Language-specific parser microservice that extracts code structure and feeds a dual-database pipeline (Neo4j + ChromaDB) for semantic retrieval. | 🔷 TypeScript | ✅ Active |
+| **[sysmon](https://github.com/Abhibadan/sysmon)** | Cross-platform memory and CPU monitoring tool with C++ kernel-level bindings. Zero dependencies. | ⚙️ C++ | 📦 Stable |
+| **[bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer)** | NLP lemmatization engine for Bengali language AI training. Helps find root words for ML model training. | 🐍 Python | 📦 Stable |
+| **[chatON_backend](https://github.com/Abhibadan/chatON_backend)** | High-concurrency real-time messaging — Discord-inspired DB partitioning. | 🟨 JavaScript | 📦 Stable |
+| **[linear_regression](https://github.com/Abhibadan/linear_regression)** | From-scratch Python ML library: Linear Regression, Logistic Regression, KNN, K-Means, K-Medoids. | 📓 Jupyter Notebook | 📦 Stable |
+<!-- PROJECTS:END -->
 
 ---
 
@@ -121,7 +123,7 @@ contact     : abhibadanghosh1234@gmail.com
 
 ---
 
-## `$ git log --oneline  # currently working on`
+## `$ git log --oneline   # currently working on`
 
 ```
 🚧  MCP Server Toolkit     → expose any REST API as MCP tool in minutes
