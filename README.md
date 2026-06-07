@@ -11,9 +11,9 @@
 </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=6366f1&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA" alt="Typing animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=6366f1&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;" alt="Typing animation">
 </picture>
 
 </div>
@@ -51,6 +51,7 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![PgVector](https://img.shields.io/badge/PgVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 **Frontend**
