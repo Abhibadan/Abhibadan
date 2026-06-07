@@ -1,35 +1,37 @@
-name: Update README with latest repos
+name: Update README Projects
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from GitHub UI
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # allows manual trigger from GitHub UI
+  push:
+    branches: [main]
 
 jobs:
-  update-readme:
+  update-projects:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
-      - name: Generate projects table
+      - name: Fetch public repos and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Abhibadan
-        run: node scripts/update-projects.js
+        run: node .github/scripts/update-projects.js
 
-      - name: Commit changes if any
+      - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: auto-update projects table [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: auto-update public projects [skip ci]"
           git push
