@@ -66,6 +66,18 @@ function langBadge(lang) {
   return `![${lang}](https://img.shields.io/badge/-${label}-${color}?style=flat-square&logoColor=white)`;
 }
 
+// Calculate experience dynamically from career start date
+function calcExperience() {
+  const start = new Date("2023-09-05");
+  const now = new Date();
+  let years = now.getFullYear() - start.getFullYear();
+  let months = now.getMonth() - start.getMonth();
+  if (months < 0) { years--; months += 12; }
+  if (years === 0) return `${months} month${months !== 1 ? "s" : ""}`;
+  if (months === 0) return `${years} year${years !== 1 ? "s" : ""}`;
+  return `${years} year${years !== 1 ? "s" : ""} ${months} month${months !== 1 ? "s" : ""}`;
+}
+
 async function main() {
   console.log(`Fetching public repos for ${USERNAME}...`);
 
@@ -129,8 +141,15 @@ async function main() {
     "\n" +
     content.slice(endIdx);
 
-  fs.writeFileSync(readmePath, newContent, "utf8");
-  console.log(`Updated README.md with ${filtered.length} repos.`);
+  // Also update dynamic experience
+  const experience = calcExperience();
+  const finalContent = newContent.replace(
+    /<!-- EXPERIENCE_BADGE -->[^""]*/,
+    experience
+  );
+
+  fs.writeFileSync(readmePath, finalContent, "utf8");
+  console.log(`Updated README.md with ${filtered.length} repos. Experience: ${experience}`);
 }
 
 main().catch((err) => {

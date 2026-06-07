@@ -1,14 +1,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Abhibadan%20Ghosh&fontSize=40&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20Architect&descAlignY=85&descSize=16&descColor=a78bfa&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=120&section=header&text=Abhibadan%20Ghosh&fontSize=40&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20Architect&descAlignY=85&descSize=16&descColor=ffffff&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Abhibadan%20Ghosh&fontSize=40&fontColor=ffffff&fontAlignY=65&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20Architect&descAlignY=85&descSize=16&descColor=a78bfa&animation=fadeIn" alt="Header">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&fontSize=1&fontColor=ffffff&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=120&section=header&fontSize=1&fontColor=ffffff&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&fontSize=1&animation=fadeIn" alt="Header">
 </picture>
 
-<br>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=620&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Abhibadan+Ghosh" alt="Hi, I'm Abhibadan Ghosh" />
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;3%2B+years+shipping+real+systems+from+Kolkata+%F0%9F%87%AE%F0%9F%87%B3;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=6366f1&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Systems+Architect;Building+agentic+AI+pipelines+that+run+autonomously;Architecting+microservices+at+production+scale;NLP+%7C+RAG+%7C+LangChain+%7C+MCP+%7C+Graph+DBs;Open+to+relocate+%E2%80%94+Targeting+12%2B+LPA" alt="Typing animation">
+</picture>
 
 </div>
 
@@ -16,17 +22,11 @@
 
 ## About
 
-```typescript
-const abhibadan = {
-  role        : "Software Engineer · AI Systems Architect · Full Stack Developer",
-  experience  : "3 years — production systems across EdTech & SaaS",
-  location    : "Howrah, West Bengal, India  →  Open to relocate anywhere in India",
-  education   : "M.Sc. Computer Science, University of Calcutta (CGPA: 7.97)",
-  currently   : ["Agentic AI pipelines", "Microservices at scale", "DSA — Neetcode 150"],
-  contact     : "abhibadanghosh1234@gmail.com",
-  funFact     : "Built a Bengali NLP lemmatizer because Indic AI needed it",
-};
-```
+Engineer by craft, builder by instinct. I spend most of my time making AI systems that actually *do* things — agents that run autonomously, pipelines that reason, backends that don't fall over at 3 AM.
+ 
+I'm drawn to problems at the edge of backend engineering and applied AI, where the interesting questions live. When something doesn't exist yet and probably should, I build it.
+ 
+> *Currently writing code in Kolkata. Open to building anywhere.*
 
 ---
 
@@ -80,67 +80,26 @@ const abhibadan = {
 ## Public Projects
 
 <!-- PROJECTS_START -->
-> ⚡ _Auto-updated every 24 h by GitHub Actions — always reflects latest public repos._
+> ⚡ _This section is auto-updated every 24 hours by a GitHub Action — always reflects your latest public repos._
 
-| Repository | Description | Language | Last Updated |
+| Repository | Description | Language | Updated |
 |---|---|---|---|
-| [CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser) | Language-specific parser microservice that extracts  code structure and feeds a dual-database pipeline  (Neo4j + ChromaDB) for semantic retrieval. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Jun 2026 |
-| [CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM) | LLM layer for CodeAtlas — enables engineers to explore  any codebase in natural language via LangChain +  graph + vector retrieval. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | Jun 2026 |
-| [acache-client](https://github.com/Abhibadan/acache-client) | Node.js client for acache-server.  Apache 2.0 licensed npm package. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Feb 2025 |
-| [acache-server](https://github.com/Abhibadan/acache-server) | Redis-inspired in-memory cache server for Node.js.  Supports strings, numbers, booleans, objects. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Feb 2025 |
-| [sysmon](https://github.com/Abhibadan/sysmon) | Cross-platform memory and CPU monitoring tool  with C++ kernel-level bindings. Zero dependencies. | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logoColor=white) | Feb 2025 |
-| [chatON_backend](https://github.com/Abhibadan/chatON_backend) | _No description_ | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Aug 2024 |
-| [chatON_frontend](https://github.com/Abhibadan/chatON_frontend) | _No description_ | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Aug 2024 |
-| [node-validator](https://github.com/Abhibadan/node-validator) | This is a package of validating request of api, for making it easier for user | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Jul 2024 |
-| [linear_regression](https://github.com/Abhibadan/linear_regression) | From-scratch Python ML library — Linear Regression,  Logistic Regression, KNN, K-Means, K-Medoids. | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square&logoColor=white) | Apr 2024 |
-| [bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer) | NLP lemmatization engine for Bengali language AI training.  Helps find root words for ML model training. | — | Oct 2023 |
-| [daily_shop](https://github.com/Abhibadan/daily_shop) | _No description_ | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white) | Aug 2021 |
-| [college_ecom](https://github.com/Abhibadan/college_ecom) | _No description_ | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white) | Jul 2021 |
+| [acache-server](https://github.com/Abhibadan/acache-server) | Redis-inspired in-memory cache server for Node.js — published npm package | TypeScript | Feb 2025 |
+| [acache-client](https://github.com/Abhibadan/acache-client) | Client library for acache-server — published npm package | TypeScript | Feb 2025 |
+| [CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM) | LLM layer — explore any codebase in natural language via LangChain + graph + vector retrieval | Python | Active |
+| [CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser) | Language-specific parser microservice → dual-database pipeline (Neo4j + ChromaDB) | TypeScript | Active |
+| [chatON_backend](https://github.com/Abhibadan/chatON_backend) | High-concurrency real-time messaging — Discord-inspired DB partitioning | JavaScript | Aug 2024 |
+| [chatON_frontend](https://github.com/Abhibadan/chatON_frontend) | Frontend for chatON real-time messaging app | JavaScript | Aug 2024 |
+| [sysmon](https://github.com/Abhibadan/sysmon) | Cross-platform memory + CPU monitor with C++ kernel-level bindings. Zero deps | C++ | Feb 2025 |
+| [bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer) | NLP lemmatization engine for Bengali AI training — finds root words for ML models | Jupyter Notebook | Oct 2023 |
+| [linear_regression](https://github.com/Abhibadan/linear_regression) | From-scratch Python ML library: Linear/Logistic Regression, KNN, K-Means, K-Medoids | Jupyter Notebook | Apr 2024 |
+| [node-validator](https://github.com/Abhibadan/node-validator) | API request validation package for Node.js — published npm package | JavaScript | Jul 2024 |
+| [daily_shop](https://github.com/Abhibadan/daily_shop) | E-commerce web app | PHP | Aug 2021 |
+| [college_ecom](https://github.com/Abhibadan/college_ecom) | College e-commerce platform | PHP | Jul 2021 |
 <!-- PROJECTS_END -->
 
 ---
 
-## Impact
-
-```
-[2025]  Cut API duplication 60%+ — custom GraphQL-like REST query builder
-[2025]  Secured 100+ concurrent exam sessions — YOLOv8 face recognition anti-cheat
-[2025]  Agentic AI pipeline processing 3+ social channels simultaneously
-[2025]  WhatsApp + web AI agent resolving queries with zero human intervention
-[2024]  Sole architect of microservices EduCRM spanning 5+ service domains
-[2024]  Scaled cross-service events via Redis Pub/Sub + WebPush + Socket.IO
-[npm]   acache-server / acache-client — Redis-inspired cache, published packages
-[npm]   node-validator — API validation middleware for Node.js
-[nlp]   Bengali Lemmatizer — NLP engine powering Indic language AI training
-```
-
----
-
-## Experience
-
-```
-● Webskitters Technology Solutions          Feb 2025 – Present
-  Software Engineer
-  Agentic AI · Microservices · EduCRM platform
-  NestJS · FastAPI · LangChain · MCP · Neo4j · ChromaDB · Kafka
-
-● Klizo Solutions Pvt. Ltd.                 Sep 2023 – Feb 2025
-  Backend Developer
-  SaaS platforms · B2B products · E-commerce analytics
-  Django · Node.js · React · Vue · Stripe · Socket.IO
-```
-
----
-
-## Currently Building
-
-```
-🚧  MCP Server Toolkit  →  expose any REST API as an MCP tool in minutes
-🚧  CodeMap CLI         →  explore any codebase in natural language
-📖  DSA Practice        →  Neetcode 150 roadmap (active)
-```
-
----
 
 ## GitHub Stats
 
@@ -174,7 +133,7 @@ const abhibadan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibadanghosh-559312189)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhibadan-ghosh-559312189)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhibadan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibadanghosh1234@gmail.com)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~abhibadan)
