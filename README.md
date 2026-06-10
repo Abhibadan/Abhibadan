@@ -80,7 +80,6 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 ## Public Projects
 
 <!-- PROJECTS_START -->
-> ⚡ _Auto-updated every 24 h by GitHub Actions — always reflects latest public repos._
 
 | Repository | Description | Language | Last Updated |
 |---|---|---|---|
