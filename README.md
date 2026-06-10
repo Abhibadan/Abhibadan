@@ -7,7 +7,7 @@
 </picture>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=620&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Abhibadan+Ghosh" alt="Hi, I'm Abhibadan Ghosh" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=2000&color=F02943&center=true&vCenter=true&width=620&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Abhibadan+Ghosh" alt="Hi, I'm Abhibadan Ghosh" />
 </h1>
 
 <picture>
