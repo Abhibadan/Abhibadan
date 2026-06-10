@@ -80,6 +80,7 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 ## Public Projects
 
 <!-- PROJECTS_START -->
+> ⚡ _Auto-updated every 24 h by GitHub Actions — always reflects latest public repos._
 
 | Repository | Description | Language | Last Updated |
 |---|---|---|---|
@@ -93,8 +94,6 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 | [node-validator](https://github.com/Abhibadan/node-validator) | This is a package of validating request of api, for making it easier for user | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white) | Jul 2024 |
 | [linear_regression](https://github.com/Abhibadan/linear_regression) | From-scratch Python ML library — Linear Regression,  Logistic Regression, KNN, K-Means, K-Medoids. | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-DA5B0B?style=flat-square&logoColor=white) | Apr 2024 |
 | [bengali-lemmatizer](https://github.com/Abhibadan/bengali-lemmatizer) | NLP lemmatization engine for Bengali language AI training.  Helps find root words for ML model training. | — | Oct 2023 |
-| [daily_shop](https://github.com/Abhibadan/daily_shop) | _No description_ | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white) | Aug 2021 |
-| [college_ecom](https://github.com/Abhibadan/college_ecom) | _No description_ | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white) | Jul 2021 |
 <!-- PROJECTS_END -->
 
 ---
