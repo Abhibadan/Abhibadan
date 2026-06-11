@@ -84,6 +84,7 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 
 | Repository | Description | Language | Last Updated |
 |---|---|---|---|
+| [tiny_API_MCP_converter](https://github.com/Abhibadan/tiny_API_MCP_converter) | A lightweight Python utility that turns a plain JSON file of REST API definitions into live, callable MCP tools — no manual FastMCP wiring needed.  You register your APIs once (URL, method, headers, body, params, response schema), and the converter to a MCP-compatible client or LLM can then discover the end point. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | Jun 2026 |
 | [CodeAtlas-Parser](https://github.com/Abhibadan/CodeAtlas-Parser) | Language-specific parser microservice that extracts  code structure and feeds a dual-database pipeline  (Neo4j + ChromaDB) for semantic retrieval. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Jun 2026 |
 | [CodeAtlas-LLM](https://github.com/Abhibadan/CodeAtlas-LLM) | LLM layer for CodeAtlas — enables engineers to explore  any codebase in natural language via LangChain +  graph + vector retrieval. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=white) | Jun 2026 |
 | [acache-client](https://github.com/Abhibadan/acache-client) | Node.js client for acache-server.  Apache 2.0 licensed npm package. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white) | Feb 2025 |
