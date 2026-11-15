@@ -138,10 +138,9 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhibadan&color=A78BFA&style=flat-square&label=Profile+Views)
 
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:8b5cf6,100:6366f1&height=80&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" alt="Footer">
 </picture>
+</div>
