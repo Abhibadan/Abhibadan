@@ -25,8 +25,6 @@
 Engineer by craft, builder by instinct. I spend most of my time making AI systems that actually *do* things — agents that run autonomously, pipelines that reason, backends that don't fall over at 3 AM.
  
 I'm drawn to problems at the edge of backend engineering and applied AI, where the interesting questions live. When something doesn't exist yet and probably should, I build it.
- 
-> *Currently writing code in Kolkata. Open to building anywhere.*
 
 ---
 
@@ -80,8 +78,6 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 ## Public Projects
 
 <!-- PROJECTS_START -->
-> ⚡ _Auto-updated every 24 h by GitHub Actions — always reflects latest public repos._
-
 | Repository | Description | Language | Last Updated |
 |---|---|---|---|
 | [resume-builder](https://github.com/Abhibadan/resume-builder) | _No description_ | — | Nov 2026 |
@@ -137,8 +133,6 @@ I'm drawn to problems at the edge of backend engineering and applied AI, where t
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhibadan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibadanghosh1234@gmail.com)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~abhibadan)
-
-📍 Howrah, West Bengal, India &nbsp;·&nbsp; Open to relocate anywhere in India
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhibadan&color=A78BFA&style=flat-square&label=Profile+Views)
 
